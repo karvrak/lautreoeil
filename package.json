@@ -9,5 +9,24 @@
     "ms": "^2.1.3",
     "mysql": "^2.18.1",
     "teemojs": "^1.8.0"
-  }
+  },
+  "name": "botdiscordjs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karvrak/lautreOeil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karvrak/lautreOeil/issues"
+  },
+  "homepage": "https://github.com/karvrak/lautreOeil#readme",
+  "description": ""
 }
